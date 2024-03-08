@@ -18,3 +18,7 @@ def mathe_rechnung(a,b):
     return a+b
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+def deutsch_modul(text1, text2):
+    return text1+text2
