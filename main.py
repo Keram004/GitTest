@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-def mathe_rechnung(a,b):
+def mathe_rechnung(a, b):
     return a+b
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
@@ -22,3 +22,8 @@ def mathe_rechnung(a,b):
 
 def deutsch_modul(text1, text2):
     return text1+text2
+
+print(f'''iajbd9uwh{{"" "
+    asdlkn
+    ""
+    ''')
